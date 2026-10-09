@@ -62,3 +62,7 @@ claude --mcp-config .mcp.json.tavily
 - Keep tool descriptions concise when building MCP servers
 - Use `--mcp-config` to select the minimal set of servers for each session
 - Regularly audit your MCP configurations for unnecessary tools
+
+## Reference
+
+This repository is an example from a plugin tutorial: [sujipglearn/context-engg-mcp](https://github.com/sujipglearn/context-engg-mcp.git)
